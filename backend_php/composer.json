@@ -1,0 +1,16 @@
+{
+  "name": "mobileshop/enterprise-management-system",
+  "description": "Comprehensive Mobile Shop Management System powered by PHP and MongoDB Atlas for Vercel Serverless",
+  "type": "project",
+  "require": {
+    "php": ">=8.2",
+    "ext-mongodb": "*",
+    "ext-json": "*",
+    "mongodb/mongodb": "^1.18"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true
+  }
+}
+
